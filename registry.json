@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-03-26T08:19:36Z",
+  "skills": [
+    {
+      "skillId": "skill_3722c809ee714b1d8d9e93987d8b899b",
+      "slug": "act-framework-dev",
+      "name": "act-framework-dev",
+      "description": "",
+      "author": "韩天衣",
+      "tags": [],
+      "latestVersion": "1.0.0",
+      "latestProviders": [
+        "codex",
+        "claude",
+        "cursor"
+      ],
+      "versionCount": 1,
+      "createdAt": "2026-03-25T13:30:34Z",
+      "updatedAt": "2026-03-26T08:19:36Z",
+      "downloadCount": 0,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishedAt": "2026-03-25T13:30:34Z",
+          "notes": "",
+          "providers": [
+            "codex",
+            "claude",
+            "cursor"
+          ],
+          "packageUrl": "packages/act-framework-dev/1.0.0.htyskillpkg",
+          "packageSize": 49814
+        }
+      ]
+    }
+  ]
+}
