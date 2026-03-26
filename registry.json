@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-03-26T08:19:36Z",
+  "updatedAt": "2026-03-26T08:26:55Z",
   "skills": [
+    {
+      "skillId": "skill_17eac423a36e448597650fb0db55eaff",
+      "slug": "blueprint-node-dev",
+      "name": "blueprint-node-dev",
+      "description": "",
+      "author": "Hty",
+      "tags": [],
+      "latestVersion": "1.0.1",
+      "latestProviders": [
+        "codex",
+        "claude",
+        "cursor"
+      ],
+      "versionCount": 1,
+      "createdAt": "2026-03-26T03:49:53Z",
+      "updatedAt": "2026-03-26T08:26:55Z",
+      "downloadCount": 0,
+      "versions": [
+        {
+          "version": "1.0.1",
+          "publishedAt": "2026-03-26T04:00:48Z",
+          "notes": "",
+          "providers": [
+            "codex",
+            "claude",
+            "cursor"
+          ],
+          "packageUrl": "packages/blueprint-node-dev/1.0.1.htyskillpkg",
+          "packageSize": 192085
+        }
+      ]
+    },
     {
       "skillId": "skill_3722c809ee714b1d8d9e93987d8b899b",
       "slug": "act-framework-dev",
